@@ -1,6 +1,6 @@
 <a href="https://www.crownpeak.com" target="_blank">![Crownpeak Logo](https://github.com/Crownpeak/DXM-SDK-Core/raw/master/images/crownpeak-logo.png?raw=true "Crownpeak Logo")</a>
 
-# Crownpeak Digital Experience Management (DXM) Software Development Kit (SDK) Examples
+# Crownpeak DXM Starter for Gatsby, using Crownpeak DXM React SDK and Gatsby Source Plugin for Crownpeak DXM
 Crownpeak Digital Experience Management (DXM) Software Development Kits (SDK) have been constructed to assist
 the Single Page App developer in developing client-side applications that leverage DXM for content management purposes.
 
