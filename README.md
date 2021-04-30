@@ -14,7 +14,7 @@ the Single Page App developer in developing client-side applications that levera
 ## Quick Start
 1) Create a new Gatsby project via the <a href="https://www.npmjs.com/package/gatsby-cli" target="_blank">Gatsby CLI</a>, or alternatively, clone this example.
 ```shell
-gatsby new crownpeak-dxm-gatsby-starter https://github.com/Crownpeak/gatsby-starter-crownpeak-dxm
+gatsby new gatsby-starter-crownpeak-dxm https://github.com/Crownpeak/gatsby-starter-crownpeak-dxm
 ```
 
 2) Populate `.env` with Crownpeak DXM information
