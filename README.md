@@ -38,6 +38,9 @@ CMS_SCAFFOLD_IGNORE=public,.cache
 > Dyanamic Content API - therefore, you should follow the instructions within the <a href="https://github.com/Crownpeak/dxm-react-sdk" target="_blank">Crownpeak DXM React SDK</a>
 > to ensure that you have content "scaffolded" into the CMS, which also requires publication via Workflow.
 
+## Videos & Tutorials
+Walk through of creating Crownpeak's Demo Site (Procam) from scratch, starting with an empty folder.
+<a href="https://www.youtube.com/watch?v=zSrNjHZKMNA" target="_blank">![Gatsby Source Plugin for Crownpeak DXM](https://github.com/Crownpeak/gatsby-source-crownpeak-dxm/blob/main/images/gatsby-source-plugin-for-crownpeak-dxm-title-frame.png?raw=true "Gatsby Source Plugin for Crownpeak DXM")</a>
 
 ## Credit
 Thanks to:
